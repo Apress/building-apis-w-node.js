@@ -1,0 +1,16 @@
+frontmatter:
+00-preface.txt
+mainmatter:
+01-introduction-nodejs.txt
+02-setting-up-the-environment.txt
+03-managing-modules-with-npm.txt
+04-building-an-api.txt
+05-working-with-sql-databases.txt
+06-crudify-api-resources.txt
+07-authenticating-users.txt
+08-testing-the-application-part-1.txt
+09-testing-the-application-part-2.txt
+10-documenting-the-api.txt
+11-preparing-the-production-environment.txt
+12-building-the-client-side-app-part-1.txt
+13-building-the-client-side-app-part-2.txt
